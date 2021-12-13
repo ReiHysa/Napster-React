@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+Napster React API Project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was the first project which utilised using react and using external API's to directly influence the front end projects. The API
+which was used was Napster React. This is a music backend API which stores music charts and genres within lists. The aim was to use 
+this API to create our own website which can find top artists for specific people. There are plenty of different genres and styles 
+with information within the API that was able to be displayed. Our job was to make that information more interactive and allowing 
+users to quickly find information on specific artists and look at the general charts or more specific charts such as top 10 in a 
+specific genre.
 
-## Available Scripts
+As this was the first project done which utilised both backend data and react there were a few struggles throughout the project such
+as the using of this specific backend project. Although there was a lot of information, a lot of that information was embedded which
+created an overall difficulty within the project. However, after going through that trouble I had a greater understanding of 
+utilising backend information within the front end. This overall knowledge will help me in future projects when gathering the 
+backend responses. Although I had learnt that inforamtion within class, the actual using of a new API helped me in understanding the
+steps required in making the project functionable.
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+When looking to update this project, the first aspect I would change is to make the CSS more coherent between the pages. The first few pages do not seem to match and overall quality level seems to drop. This is more then likely due to the timing issue that was presented when giving this task which in turn created a prokect which was finctionable but still lacked that final CSS to make it look nicer. 
+CSS aside I would also look to make the page overall more responsive to the user. Things such as registering users, logging in and saving those users to your profile could make this more functionable. However, this would mean you would need to create your own backend storage system which will be learnt and used in future projects. This is something I want to use in future projects as I believe it will make most projects more interactive for specific users. 
